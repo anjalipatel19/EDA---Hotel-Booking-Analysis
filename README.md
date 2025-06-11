@@ -58,12 +58,13 @@ Below are some visualizations from the analysis:
 ### 6. Heatmap of Feature Correlation
 ![6](https://github.com/user-attachments/assets/20fc30e0-6c63-477d-878a-cc3e56ebcea3)
 
-##  Repository Structure
+## Repository Structure
 
- Hotel Booking Analysis
-├── EDA on Hotel Booking Analysis.ipynb   # Main analysis notebook
-├── hotel_bookings.csv                    # Dataset
-└── README.md                             # Project documentation
+* **EDA - Hotel Booking Analysis/** – Main project folder
+  * **EDA on Hotel Booking Analysis.ipynb** – Jupyter Notebook containing the full analysis
+  * **Hotel Bookings.csv** – Dataset used for the exploratory data analysis
+* **LICENSE** – MIT License file
+* **README.md** – Documentation explaining the project
 
 ##  License
 
